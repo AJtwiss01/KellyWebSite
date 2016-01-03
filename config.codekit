@@ -7001,6 +7001,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/cloud-services.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.51219e+06,
+		"inputAbbreviatedPath": "\/img\/cloud-services.png",
+		"outputAbbreviatedPath": "\/img\/cloud-services.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/disaster-recover.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65366,
+		"inputAbbreviatedPath": "\/img\/disaster-recover.jpg",
+		"outputAbbreviatedPath": "\/img\/disaster-recover.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/disaster-recovery.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95605,
+		"inputAbbreviatedPath": "\/img\/disaster-recovery.jpg",
+		"outputAbbreviatedPath": "\/img\/disaster-recovery.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/Distinct-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
