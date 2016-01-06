@@ -92,28 +92,22 @@ h6 {
 p {
   font-size: 18.004px;
   /* 18px */
-
   line-height: 1.722169;
   /* 31px */
-
 }
 .lead {
   font-size: 28px;
   /* 28px */
-
-  line-height: 1.4642745000000001;
+  line-height: 1.4642745;
   /* 41px */
-
   font-weight: 300;
   margin-bottom: 20px;
 }
 small {
   font-size: 84%;
   /* 15px */
-
   line-height: 2.050846;
   /* 31px */
-
 }
 blockquote {
   position: relative;
@@ -195,7 +189,7 @@ a.text-info:focus {
   color: #2a7aaf;
 }
 .text-inverse {
-  color: #ffffff;
+  color: white;
 }
 a.text-inverse:hover,
 a.text-inverse:focus {
@@ -717,7 +711,7 @@ section * {
 .dockbar .main-menu a.man-brand .logotype {
   font-size: 16px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -739,7 +733,7 @@ section * {
 .dockbar .main-menu dl dd {
   margin: 0;
   padding: 17px 0;
-  line-height: 30.999999999999996px;
+  line-height: 31px;
   display: inline-block;
 }
 .dockbar .main-menu dl dd a {
@@ -756,7 +750,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: white;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -817,12 +811,12 @@ body .colapsed-menu dl dd dd {
 body .colapsed-menu dl dd > a {
   display: block;
   padding: 0 0 0 35px;
-  color: #5b5e61;
+  color: #5B5E61;
 }
 body .colapsed-menu dl dd > a:hover,
 body .colapsed-menu dl dd > a:focus,
 body .colapsed-menu dl dd > a.active {
-  color: #ffffff;
+  color: white;
 }
 body .colapsed-menu dl dd > a.active {
   text-decoration: none;
@@ -898,7 +892,7 @@ body .colapsed-menu::-webkit-scrollbar {
   float: left;
   font-size: 22px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   margin-right: 4px;
 }
 .content-1 .box-video .btns .btn + .btn {
@@ -1021,7 +1015,7 @@ body .colapsed-menu::-webkit-scrollbar {
   font-weight: normal;
   color: #7f8c8d;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 29.999999999999996px;
+  line-height: 30px;
 }
 .content-2 .btns {
   margin-top: 50px;
@@ -1036,7 +1030,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-2 .btns .btn > [class^="fui-"] {
   font-size: 26px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   margin: -2px 12px 0 0;
 }
 @media (max-width: 767px) {
@@ -1090,7 +1084,7 @@ body .colapsed-menu::-webkit-scrollbar {
   font-weight: normal;
   color: #7f8c8d;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 29.999999999999996px;
+  line-height: 30px;
 }
 @media (max-width: 767px) {
   .content-3 p {
@@ -1868,7 +1862,7 @@ body .colapsed-menu::-webkit-scrollbar {
   margin-left: 33px;
   font-size: 14px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 500;
   font-family: 'Montserrat', sans-serif;
 }
@@ -1918,7 +1912,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-12 .btn-wide:hover,
 .content-12 .btn-wide:focus,
 .content-12 .btn-wide.active {
-  color: #ffffff;
+  color: #fff;
 }
 .content-12 .btn-wide:hover,
 .content-12 .btn-wide:active {
@@ -1984,34 +1978,34 @@ body .colapsed-menu::-webkit-scrollbar {
   padding: 0;
   border: 0;
   background: transparent;
-  line-height: 59.99999999999999px;
+  line-height: 60px;
   font-size: 50px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   letter-spacing: -1px;
 }
 .content-13.subscribe-form input[type="text"]:-moz-placeholder,
 .content-13.subscribe-form input[type="email"]:-moz-placeholder {
-  color: #ffffff;
+  color: white;
 }
 .content-13.subscribe-form input[type="text"]::-moz-placeholder,
 .content-13.subscribe-form input[type="email"]::-moz-placeholder {
-  color: #ffffff;
+  color: white;
   opacity: 1;
 }
 .content-13.subscribe-form input[type="text"]:-ms-input-placeholder,
 .content-13.subscribe-form input[type="email"]:-ms-input-placeholder {
-  color: #ffffff;
+  color: white;
 }
 .content-13.subscribe-form input[type="text"]::-webkit-input-placeholder,
 .content-13.subscribe-form input[type="email"]::-webkit-input-placeholder {
-  color: #ffffff;
+  color: white;
 }
 .content-13.subscribe-form input[type="text"].placeholder,
 .content-13.subscribe-form input[type="email"].placeholder {
-  color: #ffffff;
+  color: white;
 }
 .content-13.subscribe-form input[type="text"]::-webkit-input-placeholder,
 .content-13.subscribe-form input[type="email"]::-webkit-input-placeholder {
@@ -2039,10 +2033,10 @@ body .colapsed-menu::-webkit-scrollbar {
   box-sizing: border-box;
   position: absolute;
   padding-left: 6px;
-  line-height: 59.99999999999999px;
+  line-height: 60px;
   font-size: 50px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .content-13.subscribe-form .btn {
@@ -2070,7 +2064,7 @@ body .colapsed-menu::-webkit-scrollbar {
     line-height: 27px;
     font-size: 25px;
     font-weight: normal;
-    color: #ffffff;
+    color: white;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
   }
@@ -2845,7 +2839,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-20 h3 {
   font-size: 30px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 35px;
   line-height: 40px;
@@ -2855,7 +2849,7 @@ body .colapsed-menu::-webkit-scrollbar {
   text-transform: none;
   font-size: 18px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 500;
   margin: 0 0 9px;
 }
@@ -2951,10 +2945,8 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-20 .signup-form form .site-link:after {
   content: " ";
   /* 1 */
-
   display: table;
   /* 2 */
-
 }
 .content-20 .signup-form form .site-link:after {
   clear: both;
@@ -2990,7 +2982,7 @@ body .colapsed-menu::-webkit-scrollbar {
   bottom: 0;
   font-size: 17px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   width: 100%;
 }
 @media (max-width: 767px) {
@@ -3049,7 +3041,7 @@ body .colapsed-menu::-webkit-scrollbar {
   display: block;
   font-size: 22px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   line-height: 32px;
@@ -3058,7 +3050,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-20 .features h6 {
   font-size: 18px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-top: 38px;
 }
@@ -3080,7 +3072,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-21 h3 {
   font-size: 30px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
   margin-bottom: 55px;
@@ -3105,10 +3097,8 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-21 .features.features-tabs .features-header:after {
   content: " ";
   /* 1 */
-
   display: table;
   /* 2 */
-
 }
 .content-21 .features.features-tabs .features-header:after {
   clear: both;
@@ -3262,7 +3252,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-22 h3 {
   font-size: 30px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 40px 0;
   font-weight: 300;
@@ -3276,7 +3266,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-22 h6 {
   font-size: 18px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   text-transform: none;
@@ -3543,7 +3533,7 @@ body .colapsed-menu::-webkit-scrollbar {
   font-weight: normal;
   color: #7f8c8d;
   background: #121518;
-  color: #ffffff;
+  color: white;
   opacity: 30;
   filter: alpha(opacity=3000);
   opacity: 0.3;
@@ -3556,7 +3546,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-23 .control-btn:hover,
 .content-23 .control-btn:focus,
 .content-23 .control-btn.active {
-  color: #ffffff;
+  color: white;
 }
 .content-23 .control-btn:hover,
 .content-23 .control-btn:focus,
@@ -3582,7 +3572,7 @@ body .colapsed-menu::-webkit-scrollbar {
   margin: 0 0 30px;
   font-size: 48px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 600;
   line-height: 56px;
 }
@@ -3590,7 +3580,7 @@ body .colapsed-menu::-webkit-scrollbar {
   .content-23 .hero-unit h1 {
     font-size: 36px;
     font-weight: normal;
-    color: #ffffff;
+    color: white;
     font-weight: 600;
     line-height: 33px;
   }
@@ -3598,7 +3588,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-23 .hero-unit.hero-unit-bordered h1 {
   font-size: 46px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 500;
   border: 8px solid white;
   display: inline-block;
@@ -3609,7 +3599,7 @@ body .colapsed-menu::-webkit-scrollbar {
   .content-23 .hero-unit.hero-unit-bordered h1 {
     font-size: 28px;
     font-weight: normal;
-    color: #ffffff;
+    color: white;
     font-weight: 600;
   }
 }
@@ -3622,7 +3612,7 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-24 h3 {
   font-size: 30px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 40px;
   font-weight: 300;
@@ -3644,10 +3634,8 @@ body .colapsed-menu::-webkit-scrollbar {
 .content-24 .features.features-clear .features-header:after {
   content: " ";
   /* 1 */
-
   display: table;
   /* 2 */
-
 }
 .content-24 .features.features-clear .features-header:after {
   clear: both;
