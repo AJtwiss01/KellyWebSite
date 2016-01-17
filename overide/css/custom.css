@@ -259,6 +259,11 @@ body.services .plan {
 body.services .plan .description {
   border-top: 2px solid black;
 }
+body.services footer {
+  background-color: #95a5a6;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
 nav.navbar.navbar-inverse.navbar-fixed-top {
   border-bottom: 1px solid #ecf0f1;
 }
