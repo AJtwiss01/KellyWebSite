@@ -1,29 +1,70 @@
-@service:   #696969;
+@service: #696969;
 @distinct: #000080;
-
 @import "spaces";
 @import "variables";
-
-
-
-section.Company{
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: black;
-	h1{
-		color: #fff;
-	}
+body.company {
+    section.head {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: black;
+        h2 {
+            color: #fff;
+            text-shadow: 2px 2px #000;
+            font-weight: 400;
+        }
+    }
+    section.Monitor {
+        img {
+            border-radius: 6px;
+            margin-top: 30px;
+        }
+    }
 }
-section.Monitor{
-	background-color: @clouds;
+
+section.Monitor {
+    background-color: @clouds;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 60px;
+    li {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+}
 
-     li{
-     	font-size: 18px;
-     
-     	padding-bottom: 10px;
+body.services {
+    img[src="img/Distinct-logo.png"] {
+        height: 53px;
+    }
+    section.head {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: black;
+        h2 {
+            color: #fff;
+            text-shadow: 2px 2px #000;
+            font-weight: 400;
+        }
+    }
+    section.price-1 {
+        li {
+            font-size: 16px;
+        }
+        img {
+            border-radius: 6px;
+            margin-top: 30px;
+        }
+    }
+    .plan {
+        margin-top: 60px;
+        color: black;
+        background-color: #ecf0f1;
+        .description {
+            border-top: 2px solid black;
+        }
+    }
+}
 
-     }
+nav.navbar.navbar-inverse.navbar-fixed-top {
+    border-bottom: 1px solid #ecf0f1;
 }

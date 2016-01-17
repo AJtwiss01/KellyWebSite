@@ -207,13 +207,19 @@
 .mal {
   margin-left: 20px;
 }
-section.Company {
+body.company section.head {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: black;
 }
-section.Company h1 {
+body.company section.head h2 {
   color: #fff;
+  text-shadow: 2px 2px #000;
+  font-weight: 400;
+}
+body.company section.Monitor img {
+  border-radius: 6px;
+  margin-top: 30px;
 }
 section.Monitor {
   background-color: #ecf0f1;
@@ -224,4 +230,35 @@ section.Monitor {
 section.Monitor li {
   font-size: 18px;
   padding-bottom: 10px;
+}
+body.services img[src="img/Distinct-logo.png"] {
+  height: 53px;
+}
+body.services section.head {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+}
+body.services section.head h2 {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+  font-weight: 400;
+}
+body.services section.price-1 li {
+  font-size: 16px;
+}
+body.services section.price-1 img {
+  border-radius: 6px;
+  margin-top: 30px;
+}
+body.services .plan {
+  margin-top: 60px;
+  color: black;
+  background-color: #ecf0f1;
+}
+body.services .plan .description {
+  border-top: 2px solid black;
+}
+nav.navbar.navbar-inverse.navbar-fixed-top {
+  border-bottom: 1px solid #ecf0f1;
 }

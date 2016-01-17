@@ -91,28 +91,22 @@ h6 {
 p {
   font-size: 18.004px;
   /* 18px */
-
   line-height: 1.722169;
   /* 31px */
-
 }
 .lead {
   font-size: 28px;
   /* 28px */
-
-  line-height: 1.4642745000000001;
+  line-height: 1.4642745;
   /* 41px */
-
   font-weight: 300;
   margin-bottom: 20px;
 }
 small {
   font-size: 84%;
   /* 15px */
-
   line-height: 2.050846;
   /* 31px */
-
 }
 blockquote {
   position: relative;
@@ -194,7 +188,7 @@ a.text-info:focus {
   color: #2a7aaf;
 }
 .text-inverse {
-  color: #ffffff;
+  color: white;
 }
 a.text-inverse:hover,
 a.text-inverse:focus {
@@ -743,7 +737,7 @@ section * {
 .dockbar .main-menu a.man-brand .logotype {
   font-size: 16px;
   font-weight: normal;
-  color: #ffffff;
+  color: white;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -765,7 +759,7 @@ section * {
 .dockbar .main-menu dl dd {
   margin: 0;
   padding: 17px 0;
-  line-height: 30.999999999999996px;
+  line-height: 31px;
   display: inline-block;
 }
 .dockbar .main-menu dl dd a {
@@ -782,7 +776,7 @@ section * {
 .dockbar .main-menu dl dd a:hover,
 .dockbar .main-menu dl dd a:focus,
 .dockbar .main-menu dl dd a.active {
-  color: #ffffff;
+  color: white;
 }
 .dockbar .main-menu dl dd a.active {
   text-decoration: none;
@@ -843,12 +837,12 @@ body .colapsed-menu dl dd dd {
 body .colapsed-menu dl dd > a {
   display: block;
   padding: 0 0 0 35px;
-  color: #5b5e61;
+  color: #5B5E61;
 }
 body .colapsed-menu dl dd > a:hover,
 body .colapsed-menu dl dd > a:focus,
 body .colapsed-menu dl dd > a.active {
-  color: #ffffff;
+  color: white;
 }
 body .colapsed-menu dl dd > a.active {
   text-decoration: none;
@@ -1143,10 +1137,8 @@ body .colapsed-menu::-webkit-scrollbar {
 .price-3 .plans:after {
   content: " ";
   /* 1 */
-
   display: table;
   /* 2 */
-
 }
 .price-3 .plans:after {
   clear: both;
