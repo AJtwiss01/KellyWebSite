@@ -1,0 +1,279 @@
+.last-col {
+  overflow: hidden;
+}
+.ptn,
+.pvn,
+.pan {
+  padding-top: 0;
+}
+.ptx,
+.pvx,
+.pax {
+  padding-top: 3px;
+}
+.pts,
+.pvs,
+.pas {
+  padding-top: 5px;
+}
+.ptm,
+.pvm,
+.pam {
+  padding-top: 10px;
+}
+.ptl,
+.pvl,
+.pal {
+  padding-top: 20px;
+}
+.ptml {
+  padding-top: 30px;
+}
+.prn,
+.phn,
+.pan {
+  padding-right: 0;
+}
+.prx,
+.phx,
+.pax {
+  padding-right: 3px;
+}
+.prs,
+.phs,
+.pas {
+  padding-right: 5px;
+}
+.prm,
+.phm,
+.pam {
+  padding-right: 10px;
+}
+.prl,
+.phl,
+.pal {
+  padding-right: 20px;
+}
+.pbn,
+.pvn,
+.pan {
+  padding-bottom: 0;
+}
+.pbx,
+.pvx,
+.pax {
+  padding-bottom: 3px;
+}
+.pbs,
+.pvs,
+.pas {
+  padding-bottom: 5px;
+}
+.pbm,
+.pvm,
+.pam {
+  padding-bottom: 10px;
+}
+.pbl,
+.pvl,
+.pal {
+  padding-bottom: 20px;
+}
+.pbml {
+  padding-bottom: 30px;
+}
+.pln,
+.phn,
+.pan {
+  padding-left: 0;
+}
+.plx,
+.phx,
+.pax {
+  padding-left: 3px;
+}
+.pls,
+.phs,
+.pas {
+  padding-left: 5px;
+}
+.plm,
+.phm,
+.pam {
+  padding-left: 10px;
+}
+.pll,
+.phl,
+.pal {
+  padding-left: 20px;
+}
+.mtn,
+.mvn,
+.man {
+  margin-top: 0px;
+}
+.mtx,
+.mvx,
+.max {
+  margin-top: 3px;
+}
+.mts,
+.mvs,
+.mas {
+  margin-top: 5px;
+}
+.mtm,
+.mvm,
+.mam {
+  margin-top: 10px;
+}
+.mtl,
+.mvl,
+.mal {
+  margin-top: 20px;
+}
+.mrn,
+.mhn,
+.man {
+  margin-right: 0px;
+}
+.mrx,
+.mhx,
+.max {
+  margin-right: 3px;
+}
+.mrs,
+.mhs,
+.mas {
+  margin-right: 5px;
+}
+.mrm,
+.mhm,
+.mam {
+  margin-right: 10px;
+}
+.mrl,
+.mhl,
+.mal {
+  margin-right: 20px;
+}
+.mbn,
+.mvn,
+.man {
+  margin-bottom: 0px;
+}
+.mbx,
+.mvx,
+.max {
+  margin-bottom: 3px;
+}
+.mbs,
+.mvs,
+.mas {
+  margin-bottom: 5px;
+}
+.mbm,
+.mvm,
+.mam {
+  margin-bottom: 10px;
+}
+.mbl,
+.mvl,
+.mal {
+  margin-bottom: 20px;
+}
+.mln,
+.mhn,
+.man {
+  margin-left: 0px;
+}
+.mlx,
+.mhx,
+.max {
+  margin-left: 3px;
+}
+.mls,
+.mhs,
+.mas {
+  margin-left: 5px;
+}
+.mlm,
+.mhm,
+.mam {
+  margin-left: 10px;
+}
+.mll,
+.mhl,
+.mal {
+  margin-left: 20px;
+}
+body.company section.head {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+}
+body.company section.head h2 {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+  font-weight: 400;
+}
+body.company section.Monitor img {
+  border-radius: 6px;
+  margin-top: 30px;
+}
+section.Monitor {
+  background-color: #ecf0f1;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+}
+section.Monitor li {
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+body.services img[src="img/Distinct-logo.png"] {
+  height: 53px;
+}
+body.services section.head {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+}
+body.services section.head h2 {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+  font-weight: 400;
+}
+body.services section.price-1 {
+  padding-top: 40px;
+}
+body.services section.price-1 li {
+  font-size: 16px;
+}
+body.services section.price-1 img {
+  border-radius: 6px;
+  margin-top: 30px;
+}
+body.services ul.filter li {
+  list-style-type: none;
+  float: left;
+  margin-left: 17px;
+}
+body.services .col-sm-6 {
+  margin-top: 60px;
+}
+body.services .plan {
+  color: black;
+  background-color: #ecf0f1;
+}
+body.services .plan .description {
+  border-top: 2px solid black;
+}
+body.services footer {
+  background-color: #95a5a6;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+nav.navbar.navbar-inverse.navbar-fixed-top {
+  border-bottom: 1px solid #ecf0f1;
+}
